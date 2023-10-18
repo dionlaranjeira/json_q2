@@ -1,21 +1,5 @@
 {
-    "device": {
-        "admin": "0d0424af709ce68c7fb63103f269fde1",
-        "remotePayment": false,
-        "otp": "1364570092"
-    },
-    "merchant": {
-        "id": 25700,
-        "personType": {
-             "id": 0,
-             "name": "CNPJ",
-             "document": "26665979000100",
-        },
-        "name": "D&S Com. Varejista  de Bebidas",
-        "franchiseId": 20,
-        "address": "RUA DEZOITO A",
-        "addressNumber": "136",
-        "city": "JUAZEIRO",
-        "state": "BA"
-    }
+      "access_token": "eyJz93a...k4laUWw",
+      "refresh_token": "GEbRxBN...edjnXbL",
+      "token_type": "Bearer"
 }
